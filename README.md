@@ -20,10 +20,10 @@ It helps in evaluating loan applications by analyzing input data and applying pr
    ```bash
    git clone https://github.com/prajwalpujari/Loan-Automation.git
 2. Install required dependencies:
-3. ```bash
+   ```bash
    pip install -r requirements.txt
 4. Run the project:
-5. ```bash
+   ```bash
    python main.py
 
 ---
